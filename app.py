@@ -15,6 +15,3 @@ if __name__ == '__main__':
 def modifier():
     return"bonjoue"
 
-def ajouter():
-    return "hello"
-    jjjjjj
